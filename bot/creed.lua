@@ -220,9 +220,9 @@ function create_config( )
     "lock_link",
     "all"
     },
-    sudo_users = {163437093,118682430,67018895},--Sudo users
+    sudo_users = {156218623},--Sudo users
     disabled_channels = {},
-    realm = {48687411,41151446},--Realms Id
+    realm = {105589723},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[Creed bot 2.0
     
